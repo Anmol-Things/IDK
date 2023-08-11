@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("images/20.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -269,7 +269,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "what i provide";
+    content: "what i have done";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -701,7 +701,7 @@ footer span a:hover{
 
 /* For highlighting the first word  */
 #firstLetter{
-    color: red;
+    color: crimson;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 20px;
 }
